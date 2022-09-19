@@ -3,7 +3,7 @@
 <div>
       <p style="color:blue">
             <b><i>const title = 'Frontend Dev'<br/>
-            I'm a self-taught `${title}` (A bigggg JavaScript Lover)</i></b>
+            I'm a self-taught `${title}` (A bigggg JavaScript and Linux system Lover)</i></b>
       </p>
      
 </div>
