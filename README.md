@@ -30,7 +30,7 @@
         <p>Will start perfoming with NodeJs & ExpressJs soon to become a FullStack JS Dev'</p>
         <p>React Native I'm coming</p>
   </div>
-- 📫 How to reach me <a href="ikuolsogbohossou@gmail.com">ikuolsogbohossou@gmail.com</a>
+- 📫 How to reach me <a mailto="ikuolsogbohossou@gmail.com">ikuolsogbohossou@gmail.com</a>
 
 <!---
 Ikuol/Ikuol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
