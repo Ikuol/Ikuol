@@ -27,11 +27,6 @@
       In order to improve my skills. Don't forget to check my repositories. <br> Feel free to contact me :wink:.</p>
   </div>
   
-  <h1>Most used languages</h1>
-  <div>
- [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ikuol)](https://github.com/anuraghazra/github-readme-stats)
-  </div>
-  
   <h1>What I'm currently learning</h1>
   <div>
          <p>Trying to become the best Frontend Engineer I can be.</p>
